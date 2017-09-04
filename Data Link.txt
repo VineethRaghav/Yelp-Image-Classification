@@ -3,6 +3,3 @@ The training photos are present in
 
 https://www.kaggle.com/c/yelp-restaurant-photo-classification/data
 
-We used the train_photos dataset for both training and testing.
-
-Hence the training data had 1500 business and testing had 500.
